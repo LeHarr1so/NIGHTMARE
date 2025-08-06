@@ -208,3 +208,52 @@
 [23:49:29] [Server thread/INFO]: hectomorf left the game
 [23:49:49] [Server thread/INFO]: Ente fell from a high place
 [23:50:02] [Server thread/INFO]: Ente fell from a high place
+[23:53:41] [Server thread/INFO]: Feliz300elefante has made the advancement [Stone Age]
+[23:54:40] [Server thread/INFO]: Feliz300elefante has made the advancement [Getting an Upgrade]
+[23:54:51] [Server thread/INFO]: Nyehtz has made the advancement [Stone Age]
+[23:55:06] [Server thread/INFO]: Nyehtz has made the advancement [Getting an Upgrade]
+[23:55:57] [Server thread/INFO]: Feliz300elefante was blown up by Creeper
+[23:56:27] [Server thread/INFO]: yussepingon has made the advancement [Stone Age]
+[23:56:29] [Server thread/INFO]: yussepingon has made the advancement [Getting an Upgrade]
+[23:56:29] [Server thread/INFO]: yussepingon hit the ground too hard
+[23:56:58] [Server thread/INFO]: Nyehtz issued server command: /setworldspawn 69 71 142
+[23:56:58] [Server thread/INFO]: [Nyehtz: Set the world spawn point to 69, 71, 142]
+[23:57:01] [Server thread/INFO]: Feliz300elefante was slain by Vex
+[23:57:23] [Server thread/INFO]: Feliz300elefante was slain by Vex
+[23:57:23] [Server thread/INFO]: Nyehtz was shot by Stray
+[23:57:39] [Server thread/WARN]: Ente was kicked due to keepalive timeout!
+[23:57:39] [Server thread/INFO]: Ente lost connection: Timed out
+[23:57:39] [Server thread/INFO]: Ente left the game
+[23:57:39] [Server thread/INFO]: yussepingon lost connection: Timed out
+[23:57:39] [Server thread/INFO]: yussepingon left the game
+[23:57:45] [Server thread/INFO]: Feliz300elefante was shot by Stray
+[23:57:52] [Server thread/INFO]: Feliz300elefante lost connection: Disconnected
+[23:57:52] [Server thread/INFO]: Feliz300elefante left the game
+[23:57:54] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[23:57:54] [Server thread/INFO]: Nyehtz left the game
+[23:57:59] [User Authenticator #3/INFO]: UUID of player Ente is 495af977-f267-30c4-8a8e-48a4ba8af9f2
+[23:57:59] [Server thread/INFO]: Ente joined the game
+[23:57:59] [Server thread/INFO]: Ente[/127.18.74.166:33549] logged in with entity id 2675 at ([world]66.67140069127225, 73.27978765156374, 155.37458369387457)
+[23:57:59] [Server thread/INFO]: Stopping the server
+[23:57:59] [Server thread/INFO]: Stopping server
+[23:57:59] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[23:57:59] [Server thread/INFO]: [DifficultyPlus] Disabling DifficultyPlus v1.0.0
+[23:57:59] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[23:57:59] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[23:57:59] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[23:57:59] [Server thread/INFO]: Saving players
+[23:57:59] [Server thread/INFO]: Ente lost connection: Server closed
+[23:57:59] [Server thread/INFO]: Ente left the game
+[23:57:59] [Server thread/INFO]: Saving worlds
+[23:57:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:57:59] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:57:59] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:57:59] [Server thread/INFO]: Flushing Chunk IO
+[23:57:59] [Server thread/INFO]: Closing Thread Pool
+[23:57:59] [Server thread/INFO]: Closing Server
