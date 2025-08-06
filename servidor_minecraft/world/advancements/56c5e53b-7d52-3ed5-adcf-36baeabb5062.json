@@ -17,8 +17,15 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-06 23:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2025-08-06 23:47:28 +0000",
       "minecraft:snowy_tundra": "2025-08-06 18:52:17 +0000"
     },
     "done": false
