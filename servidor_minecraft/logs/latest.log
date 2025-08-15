@@ -27,3 +27,42 @@
 [00:14:18] [Server thread/INFO]: Mirindiwis drowned
 [00:15:03] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
 [00:15:03] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
+[00:17:13] [Server thread/INFO]: Mirindiwis died
+[00:17:32] [Async Chat Thread - #0/INFO]: <Nyehtz> XDDDD
+[00:18:16] [Server thread/INFO]: Nyehtz was impaled by Drowned
+[00:18:34] [Server thread/INFO]: Nyehtz was impaled by Drowned
+[00:18:48] [Server thread/INFO]: Nyehtz was impaled by Drowned
+[00:19:02] [Server thread/INFO]: Nyehtz was impaled by Drowned
+[00:24:35] [Server thread/INFO]: Mirindiwis has made the advancement [Getting an Upgrade]
+[00:27:21] [Server thread/INFO]: Nyehtz fell from a high place
+[00:28:35] [Server thread/INFO]: Mirindiwis died
+[00:28:47] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
+[00:28:47] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
+[00:31:50] [Server thread/INFO]: Nyehtz was blown up by Creeper
+[00:31:58] [Server thread/INFO]: Nyehtz issued server command: /tp Nyehtz Mirindiwis
+[00:31:58] [Server thread/INFO]: [Nyehtz: Teleported Nyehtz to Mirindiwis]
+[00:33:23] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[00:33:23] [Server thread/INFO]: Nyehtz left the game
+[00:33:25] [Server thread/INFO]: Mirindiwis lost connection: Disconnected
+[00:33:25] [Server thread/INFO]: Mirindiwis left the game
+[00:33:29] [Server thread/INFO]: Stopping the server
+[00:33:29] [Server thread/INFO]: Stopping server
+[00:33:29] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.5.1
+[00:33:29] [Server thread/INFO]: [DifficultyPlus] Disabling DifficultyPlus v1.0.0
+[00:33:29] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.8
+[00:33:29] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[00:33:29] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[00:33:29] [Server thread/INFO]: Saving players
+[00:33:29] [Server thread/INFO]: Saving worlds
+[00:33:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:33:30] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:33:30] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:33:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:33:30] [Server thread/INFO]: Flushing Chunk IO
+[00:33:30] [Server thread/INFO]: Closing Thread Pool
+[00:33:30] [Server thread/INFO]: Closing Server
