@@ -10,3 +10,20 @@
 [00:03:57] [Server thread/INFO]: Nyehtz issued server command: /tp Nyehtz Mirindiwis
 [00:03:57] [Server thread/INFO]: [Nyehtz: Teleported Nyehtz to Mirindiwis]
 [00:05:11] [Server thread/INFO]: Villager EntityVillager['Villager'/3160, uuid='f692f573-3193-404c-9ff3-f1c6a2d9c32d', l='world', x=613.63, y=64.00, z=89.28, cx=38, cz=5, tl=191, v=true, d=false] died, message: 'Villager suffocated in a wall'
+[00:05:59] [Server thread/INFO]: Mirindiwis fell from a high place
+[00:06:11] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
+[00:06:11] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
+[00:06:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:06:51] [Server thread/INFO]: Nyehtz fell from a high place
+[00:09:31] [Server thread/INFO]: Mirindiwis fell from a high place
+[00:09:49] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
+[00:09:49] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
+[00:11:05] [Server thread/INFO]: Nyehtz hit the ground too hard whilst trying to escape Mirindiwis
+[00:11:14] [Server thread/INFO]: Nyehtz issued server command: /tp Nyehtz Mirindiwis
+[00:11:14] [Server thread/INFO]: [Nyehtz: Teleported Nyehtz to Mirindiwis]
+[00:14:01] [Server thread/INFO]: Mirindiwis fell from a high place
+[00:14:14] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
+[00:14:14] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
+[00:14:18] [Server thread/INFO]: Mirindiwis drowned
+[00:15:03] [Server thread/INFO]: Nyehtz issued server command: /tp Mirindiwis Nyehtz
+[00:15:03] [Server thread/INFO]: [Nyehtz: Teleported Mirindiwis to Nyehtz]
