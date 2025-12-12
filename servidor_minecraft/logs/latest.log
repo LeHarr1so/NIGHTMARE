@@ -1,0 +1,504 @@
+[17:50:34] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:50:34] [Server thread/INFO]: Loading properties
+[17:50:34] [Server thread/INFO]: This server is running Paper version git-Paper-393 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[17:50:35] [Server thread/INFO]: Debug logging is disabled
+[17:50:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:50:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:50:35] [Server thread/INFO]: Default game type: SURVIVAL
+[17:50:35] [Server thread/INFO]: Generating keypair
+[17:50:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:50:35] [Server thread/INFO]: Using epoll channel type
+[17:50:35] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.2.2
+[17:50:35] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.9.0
+[17:50:35] [Server thread/INFO]: [DifficultyPlus] Loading DifficultyPlus v1.0.0
+[17:50:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:50:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.0
+[17:50:37] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.15.2[32;1m.[0;39m
+[17:50:38] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[17:50:38] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[17:50:38] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[17:50:38] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[17:50:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:50:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:50:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:50:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:50:38] [Server thread/INFO]: Preparing level "world"
+[17:50:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:50:47] [Server thread/INFO]: Loaded 6 recipes
+[17:50:47] [Server thread/INFO]: -------- World Settings For [world] --------
+[17:50:47] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:50:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:50:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:50:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:50:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:50:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:50:47] [Server thread/INFO]: Max TNT Explosions: 100
+[17:50:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:50:47] [Server thread/INFO]: Mob Spawn Range: 8
+[17:50:47] [Server thread/INFO]: View Distance: 10
+[17:50:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:50:47] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:50:47] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:50:47] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:50:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:50:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:50:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[17:50:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:50:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:50:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:50:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:50:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:50:48] [Server thread/INFO]: Max TNT Explosions: 100
+[17:50:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:50:48] [Server thread/INFO]: Mob Spawn Range: 8
+[17:50:48] [Server thread/INFO]: View Distance: 10
+[17:50:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:50:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:50:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:50:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:50:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:50:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:50:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[17:50:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[17:50:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[17:50:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[17:50:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:50:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[17:50:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[17:50:48] [Server thread/INFO]: Max TNT Explosions: 100
+[17:50:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:50:48] [Server thread/INFO]: Mob Spawn Range: 8
+[17:50:48] [Server thread/INFO]: View Distance: 10
+[17:50:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:50:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[17:50:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[17:50:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17:50:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[17:50:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[17:50:48] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[17:50:48] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[17:50:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:50:48] [Server thread/INFO]: Preparing spawn area: 0%
+[17:50:49] [Server thread/INFO]: Preparing spawn area: 41%
+[17:50:49] [Server thread/INFO]: Time elapsed: 1052 ms
+[17:50:49] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:50:49] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[17:50:49] [Server thread/INFO]: Time elapsed: 52 ms
+[17:50:49] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:50:49] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[17:50:49] [Server thread/INFO]: Time elapsed: 34 ms
+[17:50:49] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[17:50:49] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[17:50:49] [Server thread/INFO]: [ClearLag] Loading modules...
+[17:50:49] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[17:50:49] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[17:50:49] [Thread-9/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.15]...
+[17:50:49] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[17:50:49] [Server thread/INFO]: [DifficultyPlus] Enabling DifficultyPlus v1.0.0
+[17:50:49] [Server thread/INFO]: Running delayed init tasks
+[17:50:49] [Server thread/INFO]: Done (15.086s)! For help, type "help"
+[17:50:49] [Server thread/INFO]: Timings Reset
+[17:50:51] [Thread-9/INFO]: [ClearLag] No updates found!
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.9.0[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m1565b8f[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[17:50:51] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[18:04:12] [User Authenticator #1/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:04:12] [Server thread/INFO]: Tenzuuwu joined the game
+[18:04:12] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:60161] logged in with entity id 189 at ([world]-30.583061192166806, 62.0, 188.50861379355467)
+[18:04:58] [User Authenticator #1/INFO]: UUID of player wineypro is e63eebcb-94be-31cb-b61f-3b51ca2b1da3
+[18:04:58] [Server thread/INFO]: wineypro joined the game
+[18:04:58] [Server thread/INFO]: wineypro[/127.227.183.180:35475] logged in with entity id 335 at ([world]-133.5, 73.0, 46.5)
+[18:05:11] [Async Chat Thread - #0/INFO]: <Tenzuuwu> muchachooo
+[18:05:17] [Async Chat Thread - #0/INFO]: <Tenzuuwu> te paso cordenadas
+[18:05:33] [Async Chat Thread - #0/INFO]: <wineypro> voy
+[18:05:37] [Async Chat Thread - #0/INFO]: <wineypro> no era con mods?
+[18:05:55] [Async Chat Thread - #0/INFO]: <Tenzuuwu> es un pequeño reto xd
+[18:06:04] [Async Chat Thread - #0/INFO]: <Tenzuuwu> ya despues le meteremos mods
+[18:06:20] [Server thread/INFO]: wineypro drowned
+[18:06:25] [Async Chat Thread - #0/INFO]: <wineypro> a
+[18:06:29] [Async Chat Thread - #0/INFO]: <Tenzuuwu> -40.560 / 66 /183.303
+[18:06:31] [Async Chat Thread - #0/INFO]: <Tenzuuwu> XD
+[18:06:53] [Async Chat Thread - #0/INFO]: <Tenzuuwu> bienvenido a SSMP xd
+[18:07:02] [Async Chat Thread - #0/INFO]: <Tenzuuwu> regreso en un rato voy a almorzar
+[18:07:12] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[18:07:12] [Server thread/INFO]: Tenzuuwu left the game
+[18:08:49] [Server thread/INFO]: wineypro has made the advancement [Stone Age]
+[18:11:47] [Server thread/INFO]: wineypro has made the advancement [Sweet Dreams]
+[18:12:02] [Server thread/INFO]: wineypro has made the advancement [Getting an Upgrade]
+[18:15:27] [Server thread/INFO]: wineypro has made the advancement [Monster Hunter]
+[18:15:49] [Server thread/INFO]: wineypro was slain by Vex
+[18:19:31] [Server thread/INFO]: wineypro was shot by Skeleton
+[18:24:51] [Server thread/INFO]: wineypro was slain by Vex
+[18:27:34] [User Authenticator #2/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:27:34] [Server thread/INFO]: Tenzuuwu joined the game
+[18:27:34] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:34189] logged in with entity id 2758 at ([world]-30.437199848505827, 61.5625, 186.30000001192093)
+[18:27:40] [Async Chat Thread - #1/INFO]: <Tenzuuwu> ahora si
+[18:27:50] [Async Chat Thread - #1/INFO]: <Tenzuuwu> lograste encontrar la base ?
+[18:28:01] [Async Chat Thread - #1/INFO]: <wineypro> si
+[18:28:01] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:28:06] [Server thread/INFO]: wineypro was slain by Vex
+[18:28:12] [Async Chat Thread - #1/INFO]: <Tenzuuwu> a
+[18:28:13] [Async Chat Thread - #1/INFO]: <Tenzuuwu> D:
+[18:28:15] [Async Chat Thread - #1/INFO]: <wineypro> cuidado que hay un crepper arriba
+[18:28:20] [Async Chat Thread - #1/INFO]: <Tenzuuwu> XDDDDD
+[18:28:28] [Async Chat Thread - #1/INFO]: <Tenzuuwu> va va va
+[18:28:53] [Server thread/INFO]: wineypro died
+[18:29:00] [Async Chat Thread - #1/INFO]: <wineypro> nooo mis cosas
+[18:29:13] [Server thread/INFO]: wineypro was shot by Skeleton
+[18:29:14] [Async Chat Thread - #1/INFO]: <Tenzuuwu> gg noma
+[18:29:23] [Async Chat Thread - #1/INFO]: <wineypro> y porque esta eso del lag
+[18:29:26] [Async Chat Thread - #1/INFO]: <Tenzuuwu> el real hardcore xd
+[18:29:44] [Async Chat Thread - #1/INFO]: <Tenzuuwu> creo que es cosa del host que es usando harri
+[18:29:45] [Server thread/INFO]: wineypro was shot by Skeleton
+[18:29:59] [Async Chat Thread - #1/INFO]: <wineypro> ya pero mis cosas se borraron en 1 minuto cuando si llegaba
+[18:30:01] [Async Chat Thread - #1/INFO]: <Tenzuuwu> rindete ya se eliminaron 18 items
+[18:30:16] [Async Chat Thread - #1/INFO]: <Tenzuuwu> eso es para evitar el lag
+[18:30:17] [Async Chat Thread - #1/INFO]: <wineypro> ya tenia full hierro
+[18:31:28] [Server thread/WARN]: Tenzuuwu was kicked due to keepalive timeout!
+[18:31:28] [Server thread/INFO]: Tenzuuwu lost connection: Timed out
+[18:31:28] [Server thread/INFO]: Tenzuuwu left the game
+[18:31:28] [User Authenticator #3/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:31:29] [Server thread/INFO]: Tenzuuwu joined the game
+[18:31:29] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:45957] logged in with entity id 3127 at ([world]-39.847418281751686, 57.9375, 197.92705341247756)
+[18:32:25] [Server thread/INFO]: wineypro was burnt to a crisp whilst fighting Zombie
+[18:32:31] [Server thread/WARN]: Tenzuuwu moved wrongly!
+[18:33:09] [User Authenticator #4/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:33:09] [Server thread/INFO]: Tenzuuwu lost connection: You logged in from another location
+[18:33:09] [Server thread/INFO]: Tenzuuwu left the game
+[18:33:09] [Server thread/INFO]: Tenzuuwu joined the game
+[18:33:09] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:43075] logged in with entity id 3323 at ([world]-32.59621543083304, 61.0, 187.36199638137313)
+[18:35:19] [Server thread/INFO]: Tenzuuwu withered away
+[18:37:22] [Server thread/INFO]: wineypro has made the advancement [A Seedy Place]
+[18:38:24] [Server thread/INFO]: wineypro has made the advancement [Acquire Hardware]
+[18:40:24] [Server thread/INFO]: wineypro has made the advancement [Suit Up]
+[18:40:24] [Server thread/INFO]: wineypro has made the advancement [Isn't It Iron Pick]
+[18:44:42] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[18:45:11] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[18:45:34] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[18:45:53] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[18:46:05] [Async Chat Thread - #2/INFO]: <wineypro> que paso?
+[18:46:17] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[18:46:21] [User Authenticator #5/INFO]: UUID of player Nyehtz is 56c5e53b-7d52-3ed5-adcf-36baeabb5062
+[18:46:21] [Server thread/INFO]: Nyehtz joined the game
+[18:46:21] [Server thread/INFO]: Nyehtz[/127.142.173.228:53821] logged in with entity id 5428 at ([world]-25.62871549332526, 20.0, 231.54504025482893)
+[18:46:39] [Async Chat Thread - #2/INFO]: <Tenzuuwu> mini zombies ._.
+[18:46:49] [Async Chat Thread - #2/INFO]: <Nyehtz> homla
+[18:46:57] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[18:46:57] [Server thread/INFO]: Tenzuuwu left the game
+[18:47:02] [Async Chat Thread - #2/INFO]: <Nyehtz> XDDDDDDDDDDDDDDDDD
+[18:47:03] [User Authenticator #5/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:47:03] [Server thread/INFO]: Tenzuuwu joined the game
+[18:47:03] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:42667] logged in with entity id 5520 at ([world]-29.098438214038595, 60.0, 198.34904770665446)
+[18:47:03] [Async Chat Thread - #2/INFO]: <wineypro> hola
+[18:47:10] [Server thread/INFO]: Tenzuuwu was slain by Vex
+[18:47:22] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[18:47:22] [Server thread/INFO]: Tenzuuwu left the game
+[18:47:29] [User Authenticator #5/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:47:29] [Server thread/INFO]: Tenzuuwu joined the game
+[18:47:30] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:44327] logged in with entity id 5615 at ([world]-40.518028210073695, 58.0, 192.66895837758722)
+[18:47:38] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[18:47:38] [Server thread/INFO]: Tenzuuwu left the game
+[18:48:15] [User Authenticator #5/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:48:15] [Server thread/INFO]: Tenzuuwu joined the game
+[18:48:15] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:43711] logged in with entity id 5723 at ([world]-39.232331691522845, 59.0, 189.12363625317266)
+[18:48:26] [Async Chat Thread - #3/INFO]: <Nyehtz> que fue
+[18:48:27] [Async Chat Thread - #3/INFO]: <Nyehtz> xd
+[18:48:35] [Async Chat Thread - #3/INFO]: <Tenzuuwu> la casa tiene fantasmas D:
+[18:48:39] [Async Chat Thread - #3/INFO]: <Nyehtz> bruh
+[18:48:42] [Async Chat Thread - #3/INFO]: <Nyehtz> donde estan?
+[18:48:53] [Async Chat Thread - #3/INFO]: <Tenzuuwu> yo en casa
+[18:49:02] [Async Chat Thread - #3/INFO]: <Nyehtz> voy yo estoy minado
+[18:49:09] [Async Chat Thread - #3/INFO]: <Tenzuuwu> cierto va va
+[18:49:17] [Server thread/INFO]: Nyehtz was blown up by Creeper
+[18:49:21] [Async Chat Thread - #3/INFO]: <Tenzuuwu> xd
+[18:49:22] [Async Chat Thread - #3/INFO]: <Nyehtz> ...
+[18:49:23] [Async Chat Thread - #3/INFO]: <wineypro> xd
+[18:49:24] [Async Chat Thread - #3/INFO]: <Nyehtz> dea
+[18:49:28] [Async Chat Thread - #3/INFO]: <Nyehtz> apenas y pude reaccionar
+[18:49:41] [Async Chat Thread - #3/INFO]: <wineypro> que fue mi pechera desaparecio
+[18:49:48] [Async Chat Thread - #3/INFO]: <wineypro> me tropece y la pechera no esta
+[18:50:04] [Async Chat Thread - #3/INFO]: <Tenzuuwu> 100% hardcore
+[18:51:50] [Async Chat Thread - #4/INFO]: <wineypro> como se llama?
+[18:51:54] [Async Chat Thread - #4/INFO]: <Nyehtz> ??
+[18:51:57] [Async Chat Thread - #4/INFO]: <Tenzuuwu> harri?
+[18:51:59] [Async Chat Thread - #4/INFO]: <Nyehtz> que cosa?
+[18:52:01] [Async Chat Thread - #4/INFO]: <Tenzuuwu> o quien
+[18:52:02] [Async Chat Thread - #4/INFO]: <wineypro> lo del modo
+[18:52:06] [Async Chat Thread - #4/INFO]: <Nyehtz> hmmm q
+[18:52:11] [Async Chat Thread - #4/INFO]: <Tenzuuwu> aaaaaa
+[18:52:14] [Async Chat Thread - #4/INFO]: <Tenzuuwu> ni iea
+[18:52:19] [Async Chat Thread - #4/INFO]: <Tenzuuwu> idea
+[18:52:28] [Async Chat Thread - #4/INFO]: <wineypro> es que no entiendo lo del tropesarte
+[18:52:42] [Async Chat Thread - #4/INFO]: <Tenzuuwu> ya te acostumbras xdd
+[18:52:42] [Async Chat Thread - #4/INFO]: <Nyehtz> el suelo te pus oel pie pue XDD
+[18:52:48] [Server thread/INFO]: Nyehtz was blown up by Creeper
+[18:52:59] [Async Chat Thread - #4/INFO]: <wineypro> es que me estoy tropesando y me desaparecen items del inventario
+[18:53:06] [Async Chat Thread - #4/INFO]: <Nyehtz> xd
+[18:53:20] [Async Chat Thread - #4/INFO]: <wineypro> primero la pechera y ahora el pico de hierro
+[18:53:21] [Async Chat Thread - #4/INFO]: <Tenzuuwu> cierto quita eso Nyehtz
+[18:53:24] [Async Chat Thread - #4/INFO]: <Nyehtz> no desaparecen, sino se esparcen a tu alrededor, pero no desaparecen
+[18:53:34] [Async Chat Thread - #4/INFO]: <wineypro> estaba en una cueva
+[18:53:39] [Async Chat Thread - #4/INFO]: <wineypro> sin lava
+[18:53:56] [Async Chat Thread - #4/INFO]: <wineypro> pero todo estaba menos el pico y la pechera y desaparecieron en ocaciones diferentes
+[18:54:07] [Async Chat Thread - #4/INFO]: <Tenzuuwu> lo del pico es mas una probabilidad de romperse
+[18:54:15] [Async Chat Thread - #4/INFO]: <wineypro> ni siquiera lo use
+[18:54:19] [Async Chat Thread - #4/INFO]: <Tenzuuwu> a
+[18:54:42] [Async Chat Thread - #4/INFO]: <wineypro> por eso digo que no lo entiendo
+[18:54:49] [Async Chat Thread - #4/INFO]: <wineypro> voy a buscar
+[18:55:09] [Async Chat Thread - #4/INFO]: <Nyehtz> cada cierto tiempo, los items del suelo dsaparecen para eliminar en lo mas posible el lag, pero eso apsa cada 5 o 8 minutos y da un aviso por el chat en letras rojas, asi que fuera de eso las cosas no desaparecen
+[18:55:27] [Async Chat Thread - #4/INFO]: <wineypro> si pero en ese momento no paso lo de desaparecer del lag
+[18:55:35] [Async Chat Thread - #4/INFO]: <wineypro> porque ya me paso antes con todo el inventario
+[18:56:29] [Async Chat Thread - #4/INFO]: <Nyehtz> pucha entonces no sabria decirte, busca bien entonces XD pq eso de tropezarte solo te saca los items pero no borra ninguno
+[18:56:52] [Server thread/INFO]: Nyehtz tried to swim in lava
+[18:57:16] [Async Chat Thread - #4/INFO]: <Nyehtz> siento que si pongo sa madre de contador de muerts facil me llevo la mayoria
+[18:57:17] [Async Chat Thread - #4/INFO]: <Nyehtz> :p
+[18:57:46] [Server thread/WARN]: Tenzuuwu was kicked due to keepalive timeout!
+[18:57:46] [Server thread/INFO]: Tenzuuwu lost connection: Timed out
+[18:57:46] [Server thread/INFO]: Tenzuuwu left the game
+[18:57:54] [User Authenticator #6/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[18:57:54] [Server thread/INFO]: Tenzuuwu joined the game
+[18:57:54] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:39777] logged in with entity id 6708 at ([world]-35.88403179717024, 59.0, 188.82935731362443)
+[18:58:56] [Async Chat Thread - #5/INFO]: <Nyehtz> uy quieto
+[18:59:10] [Async Chat Thread - #5/INFO]: <Tenzuuwu> re traumado quedo
+[18:59:12] [Async Chat Thread - #5/INFO]: <Tenzuuwu> pero si
+[18:59:28] [Async Chat Thread - #5/INFO]: <Nyehtz> no, no me paso pero tampcoo quiero que pase
+[18:59:32] [Async Chat Thread - #5/INFO]: <Nyehtz> XD
+[18:59:44] [Async Chat Thread - #5/INFO]: <Nyehtz> mano es la 3era vez que inicio desde 0
+[19:01:18] [Async Chat Thread - #6/INFO]: <Nyehtz> oal
+[19:02:34] [Server thread/INFO]: Tenzuuwu withered away
+[19:02:42] [Async Chat Thread - #7/INFO]: <Nyehtz> waos
+[19:02:42] [Async Chat Thread - #7/INFO]: <Tenzuuwu> lo valio
+[19:02:57] [Server thread/INFO]: Nyehtz has made the advancement [Hot Stuff]
+[19:07:52] [Server thread/INFO]: Tenzuuwu was burnt to a crisp whilst fighting Skeleton
+[19:08:14] [Server thread/INFO]: Tenzuuwu was shot by Skeleton
+[19:08:20] [Async Chat Thread - #8/INFO]: <Nyehtz> oh no
+[19:08:20] [Async Chat Thread - #8/INFO]: <Nyehtz> XD
+[19:08:28] [Server thread/INFO]: Tenzuuwu was shot by Skeleton
+[19:08:30] [Async Chat Thread - #8/INFO]: <Nyehtz> vuela alto
+[19:08:46] [Server thread/INFO]: Tenzuuwu was shot by Skeleton
+[19:09:03] [Server thread/INFO]: Tenzuuwu was shot by Skeleton
+[19:09:20] [Server thread/INFO]: Tenzuuwu was slain by Zombie
+[19:09:33] [Server thread/INFO]: Nyehtz died
+[19:10:15] [Async Chat Thread - #9/INFO]: <Tenzuuwu> valio la pena la granja de arboles
+[19:10:27] [Async Chat Thread - #9/INFO]: <Nyehtz> serio?
+[19:10:33] [Async Chat Thread - #9/INFO]: <Nyehtz> la granja de un arbol?
+[19:10:37] [Async Chat Thread - #9/INFO]: <Nyehtz> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[19:10:39] [Async Chat Thread - #9/INFO]: <Tenzuuwu> 50 50 pero esta horrible afuera
+[19:10:53] [Async Chat Thread - #9/INFO]: <Nyehtz> el que tuvo la idea 500 iq
+[19:11:36] [Async Chat Thread - #9/INFO]: <Nyehtz> dea
+[19:11:40] [Async Chat Thread - #9/INFO]: <Nyehtz> necesito madera
+[19:11:51] [Async Chat Thread - #9/INFO]: <Nyehtz> la granja esta dando madera o nada¿
+[19:11:59] [Async Chat Thread - #9/INFO]: <Tenzuuwu> si
+[19:12:01] [Async Chat Thread - #9/INFO]: <Tenzuuwu> x
+[19:12:06] [Async Chat Thread - #9/INFO]: <Tenzuuwu> D
+[19:12:40] [Async Chat Thread - #9/INFO]: <Nyehtz> voy
+[19:12:44] [Async Chat Thread - #9/INFO]: <Nyehtz> alguien ya tiene diamantes?
+[19:12:58] [Async Chat Thread - #9/INFO]: <Nyehtz> no puedo explorar mas de 4 metros in que me salga un mob y muero y ya de ahi no paso
+[19:14:05] [Async Chat Thread - #10/INFO]: <Tenzuuwu> dud tienes redstone harri?
+[19:14:07] [Async Chat Thread - #10/INFO]: <Nyehtz> nop
+[19:14:11] [Async Chat Thread - #10/INFO]: <Nyehtz> a lo mucho algo de hierro
+[19:14:21] [Async Chat Thread - #10/INFO]: <Nyehtz> mano cuidado
+[19:14:24] [Async Chat Thread - #10/INFO]: <Tenzuuwu> cierto
+[19:14:29] [Async Chat Thread - #10/INFO]: <Nyehtz> solo tnego antorchas en mano
+[19:14:34] [Async Chat Thread - #10/INFO]: <Nyehtz> apra ver de ahi nada
+[19:14:46] [Async Chat Thread - #10/INFO]: <Tenzuuwu> yo solo 3 picos y una pala a nada e romperse
+[19:14:58] [Async Chat Thread - #10/INFO]: <Nyehtz> te apuesto que es mas probable que los picos se rompan primero
+[19:14:59] [Async Chat Thread - #10/INFO]: <Nyehtz> XD
+[19:15:23] [Async Chat Thread - #10/INFO]: <Nyehtz> la laba me pone nerviosom
+[19:15:30] [Server thread/INFO]: Tenzuuwu was blown up by Creeper
+[19:15:35] [Async Chat Thread - #10/INFO]: <Tenzuuwu> XDDDD
+[19:15:35] [Async Chat Thread - #10/INFO]: <Nyehtz> XDDDDDDDDD
+[19:15:36] [Async Chat Thread - #10/INFO]: <wineypro> exploto
+[19:15:41] [Async Chat Thread - #10/INFO]: <Nyehtz> HUBIERA MATADO POR VER ESO
+[19:15:47] [Async Chat Thread - #10/INFO]: <Tenzuuwu> crei que podria darle un golpe
+[19:16:00] [Async Chat Thread - #10/INFO]: <wineypro> tendrias que tener un gato
+[19:16:00] [Async Chat Thread - #10/INFO]: <Nyehtz> wine onde andas? para meternos todo s a andar en minas
+[19:16:01] [Async Chat Thread - #10/INFO]: <Tenzuuwu> jajajaja dios que ganas de hacer la granja de creepers
+[19:16:14] [Async Chat Thread - #10/INFO]: <wineypro> en una mina de un bloque
+[19:16:15] [Async Chat Thread - #10/INFO]: <Nyehtz> sa madres explotan a penas te ven
+[19:16:19] [Async Chat Thread - #10/INFO]: <Nyehtz> waos
+[19:18:22] [Async Chat Thread - #11/INFO]: <wineypro> no se si es la version o que tengo terrible suerte o el mod borra los diamantes xd
+[19:18:36] [Async Chat Thread - #11/INFO]: <Tenzuuwu> lol
+[19:18:40] [Async Chat Thread - #11/INFO]: <Nyehtz> xdddd
+[19:18:45] [Async Chat Thread - #11/INFO]: <Nyehtz> mala suerte creo
+[19:18:50] [Async Chat Thread - #11/INFO]: <Tenzuuwu> te imaginas que sea parte del plugin
+[19:18:59] [Server thread/INFO]: Nyehtz died
+[19:19:19] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:19:26] [Async Chat Thread - #11/INFO]: <Tenzuuwu> oh no xd
+[19:19:32] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:19:59] [Async Chat Thread - #11/INFO]: <Nyehtz> COMO ODIO A LOS ESQUELETOS
+[19:20:08] [Async Chat Thread - #11/INFO]: <wineypro> que maldad los esqueletos
+[19:20:11] [Async Chat Thread - #11/INFO]: <wineypro> evaporan el agua
+[19:20:23] [Async Chat Thread - #11/INFO]: <Tenzuuwu> si?
+[19:20:33] [Async Chat Thread - #11/INFO]: <wineypro> si me pego y mi agua se borro
+[19:20:42] [Async Chat Thread - #11/INFO]: <wineypro> osea mi cubeta se vacio
+[19:21:09] [Async Chat Thread - #11/INFO]: <Nyehtz> me acaba de suceder lo mismoxddd
+[19:22:44] [Async Chat Thread - #12/INFO]: <wineypro> creo que hay que hacer una granja de algas
+[19:22:49] [Async Chat Thread - #12/INFO]: <Tenzuuwu> si
+[19:22:53] [Async Chat Thread - #12/INFO]: <Tenzuuwu> tenemos una en casa
+[19:22:59] [Async Chat Thread - #12/INFO]: <Nyehtz> si tenemos?
+[19:23:07] [Async Chat Thread - #12/INFO]: <Nyehtz> y yo sobreviviendo a base de....
+[19:23:09] [Async Chat Thread - #12/INFO]: <Nyehtz> de anda realemnte
+[19:23:11] [Async Chat Thread - #12/INFO]: <Nyehtz> XD
+[19:23:12] [Async Chat Thread - #12/INFO]: <Tenzuuwu> pero es la version simple
+[19:23:14] [Async Chat Thread - #12/INFO]: <Nyehtz> tmr
+[19:23:34] [Server thread/INFO]: wineypro lost connection: Disconnected
+[19:23:34] [Server thread/INFO]: wineypro left the game
+[19:24:10] [Async Chat Thread - #12/INFO]: <Nyehtz> dea
+[19:24:15] [Async Chat Thread - #12/INFO]: <Nyehtz> but se fue
+[19:24:24] [Async Chat Thread - #12/INFO]: <Nyehtz> haber voy a probar algo
+[19:24:27] [Async Chat Thread - #12/INFO]: <Tenzuuwu> ojito
+[19:24:42] [Async Chat Thread - #12/INFO]: <Tenzuuwu> por fin tengo una casa 1x1
+[19:25:33] [Async Chat Thread - #12/INFO]: <Nyehtz> universitarios cuando se independizan ser como:
+[19:25:33] [Server thread/WARN]: Tenzuuwu moved wrongly!
+[19:25:39] [Async Chat Thread - #12/INFO]: <Nyehtz> XDDDDDDDDDDDDDDDDDD
+[19:25:44] [Async Chat Thread - #12/INFO]: <Tenzuuwu> lit
+[19:26:08] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:26:08] [Server thread/INFO]: Tenzuuwu left the game
+[19:26:14] [User Authenticator #7/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[19:26:14] [Server thread/INFO]: Tenzuuwu joined the game
+[19:26:14] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:39483] logged in with entity id 10129 at ([world]-37.816886108377474, 44.0, 193.81225936406645)
+[19:26:33] [Server thread/INFO]: Tenzuuwu died
+[19:26:40] [Async Chat Thread - #12/INFO]: <Nyehtz> QUE FUE
+[19:26:45] [Async Chat Thread - #12/INFO]: <Nyehtz> comiste algo que no debias?
+[19:26:58] [Async Chat Thread - #12/INFO]: <Tenzuuwu> q fue ._.
+[19:27:01] [Async Chat Thread - #12/INFO]: <Nyehtz> pq yo comi carne de zombie.. aparentemente no es saludable
+[19:27:12] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:27:12] [Server thread/INFO]: Tenzuuwu left the game
+[19:27:20] [User Authenticator #8/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[19:27:20] [Server thread/INFO]: Tenzuuwu joined the game
+[19:27:20] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:39583] logged in with entity id 10229 at ([world]-30.5, 61.0000002, 187.5)
+[19:27:28] [Async Chat Thread - #12/INFO]: <Tenzuuwu> q fue
+[19:28:02] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:28:02] [Server thread/INFO]: Tenzuuwu left the game
+[19:28:05] [User Authenticator #8/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[19:28:05] [Server thread/INFO]: Tenzuuwu joined the game
+[19:28:05] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:34937] logged in with entity id 10289 at ([world]-36.312362019400865, 44.0, 198.91378919242874)
+[19:29:05] [Server thread/INFO]: Nothing changed. The player already is an operator
+[19:29:09] [Server thread/WARN]: Tenzuuwu moved wrongly!
+[19:29:17] [Server thread/INFO]: Nyehtz issued server command: /scoreboard objectives add vida health
+[19:29:17] [Server thread/INFO]: [Nyehtz: Created new objective [vida]]
+[19:29:25] [Server thread/INFO]: Nyehtz issued server command: /scoreboard objectives setdisplay list vida
+[19:29:25] [Server thread/INFO]: [Nyehtz: Set display slot list to show objective vida]
+[19:31:01] [Async Chat Thread - #13/INFO]: <Nyehtz> ahora podemos ver nuestra vida en el tabulador
+[19:31:02] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:31:02] [Server thread/INFO]: Tenzuuwu left the game
+[19:31:03] [Async Chat Thread - #13/INFO]: <Nyehtz> increible
+[19:31:06] [User Authenticator #9/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[19:31:06] [Server thread/INFO]: Tenzuuwu joined the game
+[19:31:06] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:56203] logged in with entity id 10481 at ([world]-36.68547980562358, 44.0, 197.70802893605926)
+[19:31:12] [Async Chat Thread - #13/INFO]: <Tenzuuwu> el diablo
+[19:31:20] [Async Chat Thread - #13/INFO]: <Tenzuuwu> realmente queria su hardcore
+[19:31:42] [Async Chat Thread - #13/INFO]: <Nyehtz> ahora podemos ver la vida de los demas nai nai nai
+[19:32:03] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:32:03] [Server thread/INFO]: Tenzuuwu left the game
+[19:35:19] [Async Chat Thread - #14/INFO]: <Nyehtz> sabes creoque ya normalice mucho esto de andar tropezandome XDDDDDDDDDDDDDDDDDD
+[19:37:30] [User Authenticator #10/INFO]: UUID of player Tenzuuwu is ff26c6ec-9dc4-38ef-b74c-001a5997230c
+[19:37:30] [Server thread/INFO]: Tenzuuwu joined the game
+[19:37:30] [Server thread/INFO]: Tenzuuwu[/127.116.162.97:59841] logged in with entity id 10861 at ([world]-35.30000001192092, 58.306231707094, 187.48750001192093)
+[19:42:28] [Async Chat Thread - #15/INFO]: <Nyehtz> mano creo que e normalizado tanto el tropezarme que ya es parte de mi rutina XD
+[19:43:34] [Server thread/INFO]: Nyehtz died because of Zombie
+[19:43:41] [Async Chat Thread - #16/INFO]: <Tenzuuwu> xddd
+[19:43:58] [Async Chat Thread - #16/INFO]: <Nyehtz> DOS PUTOS PASOS y aoparece un zombie y se convierte en un VEZ
+[19:44:00] [Async Chat Thread - #16/INFO]: <Nyehtz> VEX
+[19:46:15] [Server thread/INFO]: Tenzuuwu died
+[19:50:11] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[19:50:11] [Server thread/INFO]: Nyehtz left the game
+[19:50:26] [Server thread/INFO]: Tenzuuwu lost connection: Disconnected
+[19:50:26] [Server thread/INFO]: Tenzuuwu left the game
+[19:52:42] [User Authenticator #11/INFO]: UUID of player Nyehtz is 56c5e53b-7d52-3ed5-adcf-36baeabb5062
+[19:52:42] [Server thread/INFO]: Nyehtz joined the game
+[19:52:42] [Server thread/INFO]: Nyehtz[/127.142.173.228:60145] logged in with entity id 12043 at ([world]-27.525358951564332, 20.0, 231.64563879386787)
+[19:56:36] [Server thread/INFO]: Nyehtz drowned
+[19:56:49] [Server thread/INFO]: Nyehtz died because of Skeleton
+[19:57:07] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:57:47] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:58:17] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:58:39] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[19:58:57] [Server thread/INFO]: Nyehtz was blown up by Creeper
+[19:59:17] [Server thread/INFO]: Nyehtz was slain by Vex
+[19:59:57] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:00:16] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:00:28] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:00:39] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:00:50] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:01:00] [Server thread/INFO]: Nyehtz was shot by Skeleton
+[20:02:52] [Server thread/INFO]: Nyehtz died
+[20:02:57] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[20:02:57] [Server thread/INFO]: Nyehtz left the game
+[20:04:05] [Server thread/INFO]: Stopping the server
+[20:04:05] [Server thread/INFO]: Stopping server
+[20:04:05] [Server thread/INFO]: [DifficultyPlus] Disabling DifficultyPlus v1.0.0
+[20:04:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.0
+[20:04:05] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[20:04:05] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[20:04:05] [Server thread/INFO]: Saving players
+[20:04:05] [Server thread/INFO]: Saving worlds
+[20:04:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:04:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[20:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:04:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[20:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:04:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:04:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:04:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:04:06] [Server thread/INFO]: Flushing Chunk IO
+[20:04:06] [Server thread/INFO]: Closing Thread Pool
+[20:04:06] [Server thread/INFO]: Closing Server
